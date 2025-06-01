@@ -1,0 +1,37 @@
+[
+    {
+        "username": "user1",
+        "password": "123456",
+        "role": "user"
+    },
+    {
+        "username": "subin",
+        "password": "sinbu123",
+        "role": "user"
+    },
+    {
+        "username": "quan",
+        "password": "quan123",
+        "role": "admin"
+    },
+    {
+        "username": "nghi",
+        "password": "nghi123",
+        "role": "user"
+    },
+    {
+        "username": "subinvuu",
+        "password": "sb123",
+        "role": "admin"
+    },
+    {
+        "username": "mquan",
+        "password": "quan123",
+        "role": "admin"
+    },
+    {
+        "username": "quanne",
+        "password": "n123",
+        "role": "user"
+    }
+]
